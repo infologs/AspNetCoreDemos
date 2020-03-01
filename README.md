@@ -15,6 +15,7 @@ http://infologs-devzone.blogspot.in/
 Follow us on social media
 
 -------------------------------------------------------------------------.
+
 https://facebook.com/infologsIN
 
 https://twitter.com/infologsIN
@@ -28,4 +29,5 @@ https://github.com/infologs
 
 
 Thanks
+
 Infologs Team
